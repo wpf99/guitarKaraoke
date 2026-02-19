@@ -13,6 +13,7 @@ This project works by separating stems with Demucs and then remixing the non-gui
 ## Quick Start (macOS/Linux)
 
 ```bash
+mkdir audio
 cd audio
 bash setup.sh
 python3 web_app.py
