@@ -1,0 +1,8 @@
+GuitarKaraoke
+Copyright 2026 Fairchild
+
+This product bundles or depends on the following third-party software:
+
+- Demucs (https://github.com/facebookresearch/demucs)
+- PyTorch (https://pytorch.org/)
+- FFmpeg (https://ffmpeg.org/)
